@@ -1,3 +1,6 @@
+****************************** currently the json-server is disabled, serving another test project. 
+
+
 # project-planner-json-data
 
 ## Project setup
